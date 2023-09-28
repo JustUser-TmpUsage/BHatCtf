@@ -4,4 +4,8 @@
 
 ### Jacksmp was faced with the grim reality of having his personal information exposed and compromised. To make matters worse, the attackers had gained access to sensitive financial data, social media profiles, and personal emails. As he began the daunting task of damage control, he reflected on the importance of taking cybersecurity seriously. 
 
-### check this and try to findout what happend [here](http://www.google.com)
+### here is a sample of his leaked credentials 
+
+| Header 1 | Header 2 | Header 3 |
+| -------- | -------- | -------- |
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
